@@ -1,9 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "note": [
+      {
+        "id": 1,
+        "content": "Angular é muito legal. ",
+        "author": "Nat",
+        "model": "model1",
+        "favorite": false
+      },
+      {
+        "content": "teste",
+        "author": "NAT",
+        "model": "model1",
+        "id": 3,
+        "favorite": true
+      },
+      {
+        "content": "teste",
+        "author": "NAT",
+        "model": "model3",
+        "id": 2,
+        "favorite": true
+      },
+      {
+        "id": 4,
+        "content": "teste",
+        "author": "André",
+        "model": "model1",
+        "favorite": false
+      },
+      {
+        "content": "Teste Vercel ",
+        "author": "ANDRÉ",
+        "model": "model1",
+        "favorite": false,
+        "id": 5
+      }
+    ]
+  }

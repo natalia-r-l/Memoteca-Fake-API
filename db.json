@@ -2,38 +2,24 @@
     "note": [
       {
         "id": 1,
-        "content": "Angular é muito legal. ",
-        "author": "Nat",
+        "content": "Modelo de lembrete azul. ",
+        "author": "NAT",
         "model": "model1",
         "favorite": false
       },
       {
-        "content": "teste",
+        "content": "Modelo de lembrete rosa",
         "author": "NAT",
         "model": "model1",
         "id": 3,
         "favorite": true
       },
       {
-        "content": "teste",
+        "content": "Modelo de lembrete amarelo",
         "author": "NAT",
         "model": "model3",
         "id": 2,
         "favorite": true
-      },
-      {
-        "id": 4,
-        "content": "teste",
-        "author": "André",
-        "model": "model1",
-        "favorite": false
-      },
-      {
-        "content": "Teste Vercel ",
-        "author": "ANDRÉ",
-        "model": "model1",
-        "favorite": false,
-        "id": 5
-      }
+      }      
     ]
   }
